@@ -1,0 +1,328 @@
+{
+  "pokemon": [
+    {
+      "id" : 0,
+      "num" : "1",
+      "name" : "shushu",
+      "img" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1594017793782&di=65d7f4d54a3fd61ae0f01da37fdf05aa&imgtype=0&src=http%3A%2F%2Fimg.improve-yourmemory.com%2Fpic%2F7a56d6992b16ab657060057f62b09645-4.jpg",
+      "type" : ["one_1","one_2","one_1","one_2","one_1","one_2","one_1","one_2"],
+      "height" : "100",
+      "weight" : "100",
+      "candy" : "candy",
+      "candyCount" : 1,
+      "egg" : "egg",
+      "spawnChance" : "spawnChance",
+      "avgSpawns" : "avgSpawns",
+      "spawnTime" : "2020.07.08 10:10:30",
+      "multipliers" : [0.1,0.2,0.3],
+      "weaknesses" : ["周四","周五"],
+      "nextEvolution" : [
+        {
+          "num" : "10",
+          "name" : "nihao"
+        },
+        {
+          "num" : "11",
+          "name" : "nihao1"
+        }
+      ]
+    },
+    {
+      "id" : 1,
+      "num" : "2",
+      "name" : "草草",
+      "img" : "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1548525155,1032715394&fm=26&gp=0.jpg",
+      "type" : ["one_1","one_2"],
+      "height" : "100",
+      "weight" : "100",
+      "candy" : "candy",
+      "candyCount" : 1,
+      "egg" : "egg",
+      "spawnChance" : "spawnChance",
+      "avgSpawns" : "avgSpawns",
+      "spawnTime" : "2020.07.08 10:10:30",
+      "multipliers" : [0.1,0.2,0.3],
+      "weaknesses" : ["周六","周日"],
+      "nextEvolution" : [
+        {
+          "num" : "20",
+          "name" : "ggg"
+        },
+        {
+          "num" : "21",
+          "name" : "ggggg"
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "num" : "1",
+      "name" : "shushu",
+      "img" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1594017793782&di=65d7f4d54a3fd61ae0f01da37fdf05aa&imgtype=0&src=http%3A%2F%2Fimg.improve-yourmemory.com%2Fpic%2F7a56d6992b16ab657060057f62b09645-4.jpg",
+      "type" : ["one_1","one_2"],
+      "height" : "100",
+      "weight" : "100",
+      "candy" : "candy",
+      "candyCount" : 1,
+      "egg" : "egg",
+      "spawnChance" : "spawnChance",
+      "avgSpawns" : "avgSpawns",
+      "spawnTime" : "2020.07.08 10:10:30",
+      "multipliers" : [0.1,0.2,0.3],
+      "weaknesses" : ["周四","周五"],
+      "nextEvolution" : [
+        {
+          "num" : "10",
+          "name" : "nihao"
+        },
+        {
+          "num" : "11",
+          "name" : "nihao1"
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "num" : "2",
+      "name" : "草草",
+      "img" : "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1548525155,1032715394&fm=26&gp=0.jpg",
+      "type" : ["one_1","one_2"],
+      "height" : "100",
+      "weight" : "100",
+      "candy" : "candy",
+      "candyCount" : 1,
+      "egg" : "egg",
+      "spawnChance" : "spawnChance",
+      "avgSpawns" : "avgSpawns",
+      "spawnTime" : "2020.07.08 10:10:30",
+      "multipliers" : [0.1,0.2,0.3],
+      "weaknesses" : ["周六","周日"],
+      "nextEvolution" : [
+        {
+          "num" : "20",
+          "name" : "ggg"
+        },
+        {
+          "num" : "21",
+          "name" : "ggggg"
+        }
+      ]
+    },
+    {
+      "id" : 4,
+      "num" : "1",
+      "name" : "shushu",
+      "img" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1594017793782&di=65d7f4d54a3fd61ae0f01da37fdf05aa&imgtype=0&src=http%3A%2F%2Fimg.improve-yourmemory.com%2Fpic%2F7a56d6992b16ab657060057f62b09645-4.jpg",
+      "type" : ["one_1","one_2"],
+      "height" : "100",
+      "weight" : "100",
+      "candy" : "candy",
+      "candyCount" : 1,
+      "egg" : "egg",
+      "spawnChance" : "spawnChance",
+      "avgSpawns" : "avgSpawns",
+      "spawnTime" : "2020.07.08 10:10:30",
+      "multipliers" : [0.1,0.2,0.3],
+      "weaknesses" : ["周四","周五"],
+      "nextEvolution" : [
+        {
+          "num" : "10",
+          "name" : "nihao"
+        },
+        {
+          "num" : "11",
+          "name" : "nihao1"
+        }
+      ]
+    },
+    {
+      "id" : 5,
+      "num" : "2",
+      "name" : "草草",
+      "img" : "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1548525155,1032715394&fm=26&gp=0.jpg",
+      "type" : ["one_1","one_2"],
+      "height" : "100",
+      "weight" : "100",
+      "candy" : "candy",
+      "candyCount" : 1,
+      "egg" : "egg",
+      "spawnChance" : "spawnChance",
+      "avgSpawns" : "avgSpawns",
+      "spawnTime" : "2020.07.08 10:10:30",
+      "multipliers" : [0.1,0.2,0.3],
+      "weaknesses" : ["周六","周日"],
+      "nextEvolution" : [
+        {
+          "num" : "20",
+          "name" : "ggg"
+        },
+        {
+          "num" : "21",
+          "name" : "ggggg"
+        }
+      ]
+    },
+    {
+      "id" : 6,
+      "num" : "1",
+      "name" : "shushu",
+      "img" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1594017793782&di=65d7f4d54a3fd61ae0f01da37fdf05aa&imgtype=0&src=http%3A%2F%2Fimg.improve-yourmemory.com%2Fpic%2F7a56d6992b16ab657060057f62b09645-4.jpg",
+      "type" : ["one_1","one_2"],
+      "height" : "100",
+      "weight" : "100",
+      "candy" : "candy",
+      "candyCount" : 1,
+      "egg" : "egg",
+      "spawnChance" : "spawnChance",
+      "avgSpawns" : "avgSpawns",
+      "spawnTime" : "2020.07.08 10:10:30",
+      "multipliers" : [0.1,0.2,0.3],
+      "weaknesses" : ["周四","周五"],
+      "nextEvolution" : [
+        {
+          "num" : "10",
+          "name" : "nihao"
+        },
+        {
+          "num" : "11",
+          "name" : "nihao1"
+        }
+      ]
+    },
+    {
+      "id" : 7,
+      "num" : "2",
+      "name" : "草草",
+      "img" : "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1548525155,1032715394&fm=26&gp=0.jpg",
+      "type" : ["one_1","one_2"],
+      "height" : "100",
+      "weight" : "100",
+      "candy" : "candy",
+      "candyCount" : 1,
+      "egg" : "egg",
+      "spawnChance" : "spawnChance",
+      "avgSpawns" : "avgSpawns",
+      "spawnTime" : "2020.07.08 10:10:30",
+      "multipliers" : [0.1,0.2,0.3],
+      "weaknesses" : ["周六","周日"],
+      "nextEvolution" : [
+        {
+          "num" : "20",
+          "name" : "ggg"
+        },
+        {
+          "num" : "21",
+          "name" : "ggggg"
+        }
+      ]
+    },
+    {
+      "id" : 8,
+      "num" : "1",
+      "name" : "shushu",
+      "img" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1594017793782&di=65d7f4d54a3fd61ae0f01da37fdf05aa&imgtype=0&src=http%3A%2F%2Fimg.improve-yourmemory.com%2Fpic%2F7a56d6992b16ab657060057f62b09645-4.jpg",
+      "type" : ["one_1","one_2"],
+      "height" : "100",
+      "weight" : "100",
+      "candy" : "candy",
+      "candyCount" : 1,
+      "egg" : "egg",
+      "spawnChance" : "spawnChance",
+      "avgSpawns" : "avgSpawns",
+      "spawnTime" : "2020.07.08 10:10:30",
+      "multipliers" : [0.1,0.2,0.3],
+      "weaknesses" : ["周四","周五"],
+      "nextEvolution" : [
+        {
+          "num" : "10",
+          "name" : "nihao"
+        },
+        {
+          "num" : "11",
+          "name" : "nihao1"
+        }
+      ]
+    },
+    {
+      "id" : 9,
+      "num" : "2",
+      "name" : "草草",
+      "img" : "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1548525155,1032715394&fm=26&gp=0.jpg",
+      "type" : ["one_1","one_2"],
+      "height" : "100",
+      "weight" : "100",
+      "candy" : "candy",
+      "candyCount" : 1,
+      "egg" : "egg",
+      "spawnChance" : "spawnChance",
+      "avgSpawns" : "avgSpawns",
+      "spawnTime" : "2020.07.08 10:10:30",
+      "multipliers" : [0.1,0.2,0.3],
+      "weaknesses" : ["周六","周日"],
+      "nextEvolution" : [
+        {
+          "num" : "20",
+          "name" : "ggg"
+        },
+        {
+          "num" : "21",
+          "name" : "ggggg"
+        }
+      ]
+    },
+    {
+      "id" : 10,
+      "num" : "1",
+      "name" : "shushu",
+      "img" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1594017793782&di=65d7f4d54a3fd61ae0f01da37fdf05aa&imgtype=0&src=http%3A%2F%2Fimg.improve-yourmemory.com%2Fpic%2F7a56d6992b16ab657060057f62b09645-4.jpg",
+      "type" : ["one_1","one_2"],
+      "height" : "100",
+      "weight" : "100",
+      "candy" : "candy",
+      "candyCount" : 1,
+      "egg" : "egg",
+      "spawnChance" : "spawnChance",
+      "avgSpawns" : "avgSpawns",
+      "spawnTime" : "2020.07.08 10:10:30",
+      "multipliers" : [0.1,0.2,0.3],
+      "weaknesses" : ["周四","周五"],
+      "nextEvolution" : [
+        {
+          "num" : "10",
+          "name" : "nihao"
+        },
+        {
+          "num" : "11",
+          "name" : "nihao1"
+        }
+      ]
+    },
+    {
+      "id" : 11,
+      "num" : "2",
+      "name" : "草草",
+      "img" : "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1548525155,1032715394&fm=26&gp=0.jpg",
+      "type" : ["one_1","one_2"],
+      "height" : "100",
+      "weight" : "100",
+      "candy" : "candy",
+      "candyCount" : 1,
+      "egg" : "egg",
+      "spawnChance" : "spawnChance",
+      "avgSpawns" : "avgSpawns",
+      "spawnTime" : "2020.07.08 10:10:30",
+      "multipliers" : [0.1,0.2,0.3],
+      "weaknesses" : ["周六","周日"],
+      "nextEvolution" : [
+        {
+          "num" : "20",
+          "name" : "ggg"
+        },
+        {
+          "num" : "21",
+          "name" : "ggggg"
+        }
+      ]
+    }
+  ]
+}
